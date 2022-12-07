@@ -1,0 +1,45 @@
+a {
+    color: black;
+}
+h1 {
+    color: #a5b4fc;
+}
+h1 {
+    font-size: 3.5em;
+    color: #A5B4FC;
+    font-family: 'Monserrat', sans-serif;
+}
+p {
+    font-size: 1.1em;
+    font-family: 'Manrope', sans-serif;
+    color: #F9F8FF;
+}
+li {
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+    color: #F9F8FF;
+}
+div {
+    background: white;
+}
+body {
+    background: #1F2039 ;
+}
+.entete;
+.pied-de-page {
+    color: #242424;
+}
+h2 {
+    color: #F9F8FF;
+}
+.cta hover {
+    background: linear-gradient(#8E86B5,#ACAEED);
+    font-family: 'Monserrat', sans-serif;
+}
+a:hover {
+    text-decoration: underline;
+
+}
+.lien-icone {
+    opacity: 0.5;
+}
